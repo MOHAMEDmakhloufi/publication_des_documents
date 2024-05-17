@@ -1,0 +1,27 @@
+export enum FileType {
+    PDF = 'pdf',
+    PNG = 'png',
+    JPG = 'jpg',
+    JPEG = 'jpeg',
+    DOCX = 'docx',
+    TXT = 'txt',
+    GIF = 'gif',
+    SVG = 'svg',
+    MP4 = 'mp4',
+    AVI = 'avi',
+    MOV = 'mov',
+    MP3 = 'mp3',
+    WAV = 'wav',
+    ZIP = 'zip',
+    RAR = 'rar',
+    CSV = 'csv',
+    XLSX = 'xlsx',
+    PPTX = 'pptx',
+    JSON = 'json',
+    XML = 'xml',
+    HTML = 'html',
+    CSS = 'css',
+    JS = 'js',
+    OTHER = 'other'
+  }
+  
